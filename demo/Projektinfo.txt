@@ -1,0 +1,12 @@
+index.html via live server starten.
+
+Albach, Manuel 1584310
+Diekmann, Ragnar 1578581
+Qullen:
+Texturen:
+	Jupiter: https://www.solarsystemscope.com/textures
+	Mona Lisa: https://image.geo.de/30143964/t/AO/v3/w960/r0/-/mona-lisa-p-1024727412-jpg--81961-.jpg
+	Skytexture:  https://learnopengl.com/
+
+Objecte:
+	Monkey: Primitiv Objekt aus Blender 3d
